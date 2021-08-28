@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "extradiscs",
+  "version": "${version}",
+
+  "name": "Extra Discs",
+  "description": "Adds several new discs some of which include actual songs!",
+  "authors": [
+    "CringeStar Boi",
+    "CUSTOM MINECRAFT DISC SOUNDTRACKS WERE MADE BY: JamiesName on Youtube"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://www.youtube.com/channel/UC_asSM4aKDiDLQ1xSn-nMjg",
+    "github": ""
+  },
+
+  "license": "CC BY-NC 4.0",
+  "icon": "assets/extradiscs/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cringestar.extra.discs.ExtraDiscs"
+    ]
+  },
+  "mixins": [
+    "extradiscs.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

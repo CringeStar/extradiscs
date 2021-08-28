@@ -1,0 +1,162 @@
+{
+  "shulk": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.shulk",
+    "sounds": [
+      {
+        "name": "extradiscs:shulk",
+        "stream": false
+      }
+    ]
+  },
+  "pillaged": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.pillaged",
+    "sounds": [
+      {
+        "name": "extradiscs:pillaged",
+        "stream": false
+      }
+    ]
+  },
+  "18": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.18",
+    "sounds": [
+      {
+        "name": "extradiscs:18",
+        "stream": false
+      }
+    ]
+  },
+  "tall": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.tall",
+    "sounds": [
+      {
+        "name": "extradiscs:tall",
+        "stream": false
+      }
+    ]
+  },
+  "anti": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.anti",
+    "sounds": [
+      {
+        "name": "extradiscs:anti",
+        "stream": false
+      }
+    ]
+  },
+  "birch_bop": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.birch_bop",
+    "sounds": [
+      {
+        "name": "extradiscs:birch_bop",
+        "stream": false
+      }
+    ]
+  },
+  "clockwork_crafter": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.clockwork_crafter",
+    "sounds": [
+      {
+        "name": "extradiscs:clockwork_crafter",
+        "stream": false
+      }
+    ]
+  },
+  "drunken_storm": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.drunken_storm",
+    "sounds": [
+      {
+        "name": "extradiscs:drunken_storm",
+        "stream": false
+      }
+    ]
+  },
+  "fortstress": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.fortstress",
+    "sounds": [
+      {
+        "name": "extradiscs:fortstress",
+        "stream": false
+      }
+    ]
+  },
+  "funky_shulk": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.funky_shulk",
+    "sounds": [
+      {
+        "name": "extradiscs:funky_shulk",
+        "stream": false
+      }
+    ]
+  },
+  "neon": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.neon",
+    "sounds": [
+      {
+        "name": "extradiscs:neon",
+        "stream": false
+      }
+    ]
+  },
+  "null": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.null",
+    "sounds": [
+      {
+        "name": "extradiscs:null",
+        "stream": false
+      }
+    ]
+  },
+  "over": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.over",
+    "sounds": [
+      {
+        "name": "extradiscs:over",
+        "stream": false
+      }
+    ]
+  },
+  "shulkeyed": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.shulkeyed",
+    "sounds": [
+      {
+        "name": "extradiscs:shulkeyed",
+        "stream": false
+      }
+    ]
+  },
+  "storm": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.storm",
+    "sounds": [
+      {
+        "name": "extradiscs:storm",
+        "stream": false
+      }
+    ]
+  },
+  "vibrate": {
+    "category": "blocks",
+    "subtitle": "subtitles.extradiscs.vibrate",
+    "sounds": [
+      {
+        "name": "extradiscs:vibrate",
+        "stream": false
+      }
+    ]
+  }
+}
