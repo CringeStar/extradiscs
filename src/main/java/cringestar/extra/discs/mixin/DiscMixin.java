@@ -10,6 +10,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class DiscMixin {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
-		System.out.println("sugma mixin balls");
+		System.out.println("sugma mixin balls, please work");
 	}
 }
