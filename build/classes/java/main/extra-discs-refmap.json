@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "cringestar/extra/discs/mixin/DiscMixin": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    },
+    "cringestar/extra/discs/mixin/WorldRendererMixin": {
+      "updateEntitiesForSong": "Lnet/minecraft/class_761;method_3247(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Z)V"
+    },
+    "cringestar/extra/discs/mixin/ParrotMixin": {
+      "tickMovement": "Lnet/minecraft/class_1453;method_6007()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "cringestar/extra/discs/mixin/DiscMixin": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      },
+      "cringestar/extra/discs/mixin/WorldRendererMixin": {
+        "updateEntitiesForSong": "Lnet/minecraft/class_761;method_3247(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Z)V"
+      },
+      "cringestar/extra/discs/mixin/ParrotMixin": {
+        "tickMovement": "Lnet/minecraft/class_1453;method_6007()V"
+      }
+    }
+  }
+}
